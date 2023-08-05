@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "core-lang-compiler-lib",
+    "core-lang-compiler-exec"
+]
+resolver = "2"
